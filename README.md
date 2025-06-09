@@ -2,7 +2,7 @@
 
 hey! this is a low-key way to track dry days — no pressure, just good vibes. fork this repo, make your own log, and keep it going.
 
-join the community: [Your name](your-link}.
+join the community: (Your name)[your-link].
 
 ## my log
 
