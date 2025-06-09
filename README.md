@@ -1,4 +1,4 @@
-# 🍺 dry days
+# 💪🏼 dry days
 
 hey! this is a low-key way to track dry days — no pressure, just good vibes. fork this repo, make your own log, and keep it going.
 
