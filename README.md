@@ -1,15 +1,22 @@
-```
-• ✅ = No alcohol
-• ❌ = Yes, alcohol consumed
-```
+# 🍺 dry days
 
-| Date       | Dry Day? | Notes      |
-|------------|---------|------------|
-| 2025-06-01 | ✅      | No alcohol |
-| 2025-06-02 | ✅      | No alcohol |
-| 2025-06-03 | ✅      | No alcohol |
-| 2025-06-04 | ✅      | No alcohol |
-| 2025-06-05 | ✅      | Dinner with friends – had water all night        |
-| 2025-06-06 | ✅      | PHP Portugal Meetup #15 – had 3 non-alcoholic beers |
-| 2025-06-07 | ✅      | No alcohol |
-| 2025-06-08 | ✅      | No alcohol |
+hey! this is a low-key way to track dry days — no pressure, just good vibes. fork this repo, make your own log, and keep it going.
+
+## my log
+
+| date       | dry day? | notes                                              |
+|------------|----------|----------------------------------------------------|
+| 2025-06-01 | ✅       | no alcohol                                         |
+| 2025-06-02 | ✅       | no alcohol                                         |
+| 2025-06-03 | ✅       | no alcohol                                         |
+| 2025-06-04 | ✅       | no alcohol                                         |
+| 2025-06-05 | ✅       | dinner with friends — water only                   |
+| 2025-06-06 | ✅       | php portugal meetup — 3 non-alcoholic beers        |
+| 2025-06-07 | ✅       | no alcohol                                         |
+| 2025-06-08 | ✅       | no alcohol                                         |
+
+```
+legend:
+✅ = no alcohol
+❌ = alcohol consumed
+```
