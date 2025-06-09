@@ -1,5 +1,3 @@
-# Dry Nuno Log
-
 | Date       | Alcohol | Notes      |
 |------------|---------|------------|
 | 2025-06-01 | ✅      | No alcohol |
