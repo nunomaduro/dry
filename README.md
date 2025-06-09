@@ -1,6 +1,8 @@
-	•	✅ = No alcohol
-	•	❌ = Yes, alcohol consumed
- 
+```
+• ✅ = No alcohol
+• ❌ = Yes, alcohol consumed
+```
+
 | Date       | Dry Day? | Notes      |
 |------------|---------|------------|
 | 2025-06-01 | ✅      | No alcohol |
