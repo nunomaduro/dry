@@ -14,6 +14,7 @@ hey! this is a low-key way to track dry days — no pressure, just good vibes.  
 | 2025-06-06 | ✅       | php portugal meetup — 3 non-alcoholic beers        |
 | 2025-06-07 | ✅       | no alcohol                                         |
 | 2025-06-08 | ✅       | no alcohol                                         |
+| 2025-06-09 | ✅       | no alcohol                                         |
 
 ```
 legend:
