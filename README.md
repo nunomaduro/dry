@@ -1,6 +1,6 @@
 # 💪🏼 dry days
 
-hey! this is a low-key way to track dry days — no pressure, just good vibes.  fork this repo, make your own log, and keep it going.  join the community: [chris-sev](https://github.com/chris-sev/dry)
+hey! this is a low-key way to track dry days — no pressure, just good vibes.  fork this repo, make your own log, and keep it going.
 
 ## my log
 
