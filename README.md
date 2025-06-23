@@ -25,8 +25,8 @@ hey! this is a low-key way to track dry days — no pressure, just good vibes.  
 | 2025-06-17 | ✅       | no alcohol                                         |
 | 2025-06-18 | ✅       | no alcohol                                         |
 | 2025-06-19 | ✅       | no alcohol                                         |
-| 2025-06-20 | ✅       | no alcohol                                         |
-| 2025-06-21 | ✅       | no alcohol                                         |
+| 2025-06-20 | ✅       | family lunch                                       |
+| 2025-06-21 | ✅       | friends dinner, just water                         |
 | 2025-06-22 | ✅       | no alcohol                                         |
 ```
 legend:
