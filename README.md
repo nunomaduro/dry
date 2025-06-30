@@ -35,6 +35,7 @@ hey! this is a low-key way to track dry days — no pressure, just good vibes.  
 | 2025-06-27 | ✅       |
 | 2025-06-28 | ✅       |
 | 2025-06-29 | ✅       |
+| 2025-06-30 | ✅       |
 
 ```
 legend:
